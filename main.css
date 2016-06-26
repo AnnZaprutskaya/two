@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+table
+{
+	padding:10px;
+	border:2px solid #66F;}
+
+td
+{
+	border:2px solid #66F;
+	text-align:center;
+	background-color:#CCC;}
+	
+h2
+{
+	text-align:center;}
+
+#output
+{
+	height:70px;
+	background-color:#FFF;}
